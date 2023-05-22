@@ -1,7 +1,7 @@
 # miniblog
 groupe2
 Yacine fall Diagne
-aminata Diagne
+Aminata Diagne
 Aicha Sagne
 Aida Magou Diop
 Sokhna Aicha Amar
