@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiniBlog</string>
+    <string name="create_table">CREATE TABLE</string>
+    <string name="drop_table_if_exists">DROP TABLE IF EXISTS</string>
+</resources>
